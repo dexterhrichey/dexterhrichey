@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <tr>
         <td>
           <img width="400px" align="center" 
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexterhrichey&hide=html,php,blade,makefile,vhdl,c,qmake,css&langs_count=6&layout=compact&theme=dracula" />
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexterhrichey&hide=html,blade,makefile,vhdl,c,qmake,css&langs_count=6&layout=compact&theme=dracula" />
       </td>
       <td>
           <img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=dexterhrichey&show_icons=true&count_private=true&theme=dracula" />
